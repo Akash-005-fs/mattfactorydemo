@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/mattfactorydemo/static/css/main.bac33c1a.css",
-    "main.js": "/mattfactorydemo/static/js/main.eb0a3be0.js",
+    "main.css": "/mattfactorydemo/static/css/main.222272ad.css",
+    "main.js": "/mattfactorydemo/static/js/main.8c94c7b5.js",
     "static/js/453.3a8f65e8.chunk.js": "/mattfactorydemo/static/js/453.3a8f65e8.chunk.js",
+    "static/media/logonav.png": "/mattfactorydemo/static/media/logonav.c083e75e04f785eb1c00.png",
     "static/media/h5.jpg": "/mattfactorydemo/static/media/h5.3d0e550a114a145b93fe.jpg",
     "static/media/d7.png": "/mattfactorydemo/static/media/d7.b4049c7de189e87f4758.png",
     "static/media/ss3.jpeg": "/mattfactorydemo/static/media/ss3.9b8efa58cf2d4d2130bf.jpeg",
@@ -37,12 +38,12 @@
     "static/media/d3.png": "/mattfactorydemo/static/media/d3.0a23ce32e8235e09608f.png",
     "static/media/gym matt.jpeg": "/mattfactorydemo/static/media/gym matt.abb5601da4d6367f27b7.jpeg",
     "index.html": "/mattfactorydemo/index.html",
-    "main.bac33c1a.css.map": "/mattfactorydemo/static/css/main.bac33c1a.css.map",
-    "main.eb0a3be0.js.map": "/mattfactorydemo/static/js/main.eb0a3be0.js.map",
+    "main.222272ad.css.map": "/mattfactorydemo/static/css/main.222272ad.css.map",
+    "main.8c94c7b5.js.map": "/mattfactorydemo/static/js/main.8c94c7b5.js.map",
     "453.3a8f65e8.chunk.js.map": "/mattfactorydemo/static/js/453.3a8f65e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bac33c1a.css",
-    "static/js/main.eb0a3be0.js"
+    "static/css/main.222272ad.css",
+    "static/js/main.8c94c7b5.js"
   ]
 }
