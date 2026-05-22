@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/mattfactorydemo/static/css/main.3a9bb544.css",
-    "main.js": "/mattfactorydemo/static/js/main.cb78ebc1.js",
+    "main.css": "/mattfactorydemo/static/css/main.87ae2df3.css",
+    "main.js": "/mattfactorydemo/static/js/main.36482af4.js",
     "static/js/453.3a8f65e8.chunk.js": "/mattfactorydemo/static/js/453.3a8f65e8.chunk.js",
+    "static/media/veldfooter.png": "/mattfactorydemo/static/media/veldfooter.d21f45627828509dd8c3.png",
     "static/media/logonav.png": "/mattfactorydemo/static/media/logonav.c083e75e04f785eb1c00.png",
+    "static/media/the_germans.jpg": "/mattfactorydemo/static/media/the_germans.35230e4def4c7a22a2de.jpg",
     "static/media/h5.jpg": "/mattfactorydemo/static/media/h5.3d0e550a114a145b93fe.jpg",
     "static/media/ss3.jpeg": "/mattfactorydemo/static/media/ss3.9b8efa58cf2d4d2130bf.jpeg",
-    "static/media/berlin.jpg": "/mattfactorydemo/static/media/berlin.c30bdb7d08b67c5c03fe.jpg",
     "static/media/a4.png": "/mattfactorydemo/static/media/a4.ead6e14139277b3448ea.png",
-    "static/media/nl.jpg": "/mattfactorydemo/static/media/nl.d4133e7352249db9d29f.jpg",
     "static/media/bb.png": "/mattfactorydemo/static/media/bb.9e7616a5ed9ce1bc3df6.png",
     "static/media/dd.png": "/mattfactorydemo/static/media/dd.a71b6ee78a92004227d8.png",
-    "static/media/uae.jpg": "/mattfactorydemo/static/media/uae.24b1b8f4ac16c2d08593.jpg",
     "static/media/d6.png": "/mattfactorydemo/static/media/d6.da4022e4aa32bd56eb11.png",
     "static/media/h2.jpg": "/mattfactorydemo/static/media/h2.cc66363e9c8405c2ab89.jpg",
     "static/media/h6.jpg": "/mattfactorydemo/static/media/h6.426d09c4a0707e4ff858.jpg",
@@ -23,15 +22,21 @@
     "static/media/h3.jpg": "/mattfactorydemo/static/media/h3.bd8d887058eb18c33097.jpg",
     "static/media/ss2.jpg": "/mattfactorydemo/static/media/ss2.853b791ccb468ba2e32d.jpg",
     "static/media/h1.jpg": "/mattfactorydemo/static/media/h1.15746437d4bed0f3824b.jpg",
+    "static/media/the_netherlands.avif": "/mattfactorydemo/static/media/the_netherlands.d98d20b262e018017278.avif",
+    "static/media/ramadan-market.jpg": "/mattfactorydemo/static/media/ramadan-market.e930fae596abfd41ace7.jpg",
     "static/media/c1.png": "/mattfactorydemo/static/media/c1.e7ea1e75d19d8fde7aa4.png",
+    "static/media/veldfarm (2).png": "/mattfactorydemo/static/media/veldfarm (2).160336f87395053e5dbb.png",
+    "static/media/veldfarm (3).png": "/mattfactorydemo/static/media/veldfarm (3).12008041a64363d81290.png",
+    "static/media/veldfarm (1).png": "/mattfactorydemo/static/media/veldfarm (1).2d96df60b72a70553d05.png",
+    "static/media/veldfarm (4).png": "/mattfactorydemo/static/media/veldfarm (4).78339854a239f574c459.png",
     "static/media/gym matt.jpeg": "/mattfactorydemo/static/media/gym matt.abb5601da4d6367f27b7.jpeg",
     "index.html": "/mattfactorydemo/index.html",
-    "main.3a9bb544.css.map": "/mattfactorydemo/static/css/main.3a9bb544.css.map",
-    "main.cb78ebc1.js.map": "/mattfactorydemo/static/js/main.cb78ebc1.js.map",
+    "main.87ae2df3.css.map": "/mattfactorydemo/static/css/main.87ae2df3.css.map",
+    "main.36482af4.js.map": "/mattfactorydemo/static/js/main.36482af4.js.map",
     "453.3a8f65e8.chunk.js.map": "/mattfactorydemo/static/js/453.3a8f65e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a9bb544.css",
-    "static/js/main.cb78ebc1.js"
+    "static/css/main.87ae2df3.css",
+    "static/js/main.36482af4.js"
   ]
 }
