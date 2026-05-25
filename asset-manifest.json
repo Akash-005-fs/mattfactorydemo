@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/mattfactorydemo/static/css/main.87ae2df3.css",
-    "main.js": "/mattfactorydemo/static/js/main.014f6cb6.js",
+    "main.css": "/mattfactorydemo/static/css/main.73fb4e63.css",
+    "main.js": "/mattfactorydemo/static/js/main.b834d714.js",
     "static/js/453.3a8f65e8.chunk.js": "/mattfactorydemo/static/js/453.3a8f65e8.chunk.js",
+    "static/media/gymfloor.mp4": "/mattfactorydemo/static/media/gymfloor.0e90df030d9825916d0c.mp4",
     "static/media/veldfooter.png": "/mattfactorydemo/static/media/veldfooter.d21f45627828509dd8c3.png",
     "static/media/logonav.png": "/mattfactorydemo/static/media/logonav.c083e75e04f785eb1c00.png",
     "static/media/the_germans.jpg": "/mattfactorydemo/static/media/the_germans.35230e4def4c7a22a2de.jpg",
     "static/media/h5.jpg": "/mattfactorydemo/static/media/h5.3d0e550a114a145b93fe.jpg",
     "static/media/ss3.jpeg": "/mattfactorydemo/static/media/ss3.9b8efa58cf2d4d2130bf.jpeg",
     "static/media/a4.png": "/mattfactorydemo/static/media/a4.ead6e14139277b3448ea.png",
+    "static/media/veldfarmh.jpg": "/mattfactorydemo/static/media/veldfarmh.572c0de817d944f926fa.jpg",
     "static/media/bb.png": "/mattfactorydemo/static/media/bb.9e7616a5ed9ce1bc3df6.png",
     "static/media/dd.png": "/mattfactorydemo/static/media/dd.a71b6ee78a92004227d8.png",
     "static/media/d6.png": "/mattfactorydemo/static/media/d6.da4022e4aa32bd56eb11.png",
@@ -31,12 +33,12 @@
     "static/media/veldfarm (4).png": "/mattfactorydemo/static/media/veldfarm (4).78339854a239f574c459.png",
     "static/media/gym matt.jpeg": "/mattfactorydemo/static/media/gym matt.abb5601da4d6367f27b7.jpeg",
     "index.html": "/mattfactorydemo/index.html",
-    "main.87ae2df3.css.map": "/mattfactorydemo/static/css/main.87ae2df3.css.map",
-    "main.014f6cb6.js.map": "/mattfactorydemo/static/js/main.014f6cb6.js.map",
+    "main.73fb4e63.css.map": "/mattfactorydemo/static/css/main.73fb4e63.css.map",
+    "main.b834d714.js.map": "/mattfactorydemo/static/js/main.b834d714.js.map",
     "453.3a8f65e8.chunk.js.map": "/mattfactorydemo/static/js/453.3a8f65e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87ae2df3.css",
-    "static/js/main.014f6cb6.js"
+    "static/css/main.73fb4e63.css",
+    "static/js/main.b834d714.js"
   ]
 }
