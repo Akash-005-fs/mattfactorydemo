@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mattfactorydemo/static/css/main.73fb4e63.css",
-    "main.js": "/mattfactorydemo/static/js/main.b834d714.js",
+    "main.js": "/mattfactorydemo/static/js/main.e5cd8f70.js",
     "static/js/453.3a8f65e8.chunk.js": "/mattfactorydemo/static/js/453.3a8f65e8.chunk.js",
     "static/media/gymfloor.mp4": "/mattfactorydemo/static/media/gymfloor.0e90df030d9825916d0c.mp4",
     "static/media/veldfooter.png": "/mattfactorydemo/static/media/veldfooter.d21f45627828509dd8c3.png",
@@ -34,11 +34,11 @@
     "static/media/gym matt.jpeg": "/mattfactorydemo/static/media/gym matt.abb5601da4d6367f27b7.jpeg",
     "index.html": "/mattfactorydemo/index.html",
     "main.73fb4e63.css.map": "/mattfactorydemo/static/css/main.73fb4e63.css.map",
-    "main.b834d714.js.map": "/mattfactorydemo/static/js/main.b834d714.js.map",
+    "main.e5cd8f70.js.map": "/mattfactorydemo/static/js/main.e5cd8f70.js.map",
     "453.3a8f65e8.chunk.js.map": "/mattfactorydemo/static/js/453.3a8f65e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73fb4e63.css",
-    "static/js/main.b834d714.js"
+    "static/js/main.e5cd8f70.js"
   ]
 }
